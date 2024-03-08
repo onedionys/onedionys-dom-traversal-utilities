@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-dom-traversal-utilities",
+  "version": "1.0.0",
+  "description": "One Dionys (DOM Traversal Utilities) - Functions for searching and navigating within the structure of DOM elements.",
+  "main": "src/domTraversalUtils.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-dom-traversal-utilities.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "dom-traversal-utilities"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-dom-traversal-utilities/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-dom-traversal-utilities#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-data-formatting-helpers": "^1.0.0",
+    "onedionys-event-handling-library": "^1.0.0",
+    "onedionys-feature-toggle-utilities": "^1.0.0",
+    "onedionys-form-input-masking": "^1.0.0",
+    "onedionys-web-storage-abstraction": "^1.0.0"
+  }
+}
