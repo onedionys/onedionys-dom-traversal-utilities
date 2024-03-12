@@ -1,6 +1,6 @@
 {
   "name": "onedionys-dom-traversal-utilities",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (DOM Traversal Utilities) - Functions for searching and navigating within the structure of DOM elements.",
   "main": "src/domTraversalUtils.js",
   "directories": {
